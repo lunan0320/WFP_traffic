@@ -1,6 +1,6 @@
-## TLS encrypted traffic shaping technology
+ ## TLS加密流量整形系统
 
-## TLS加密流量整形系统
+（TLS encrypted traffic shaping technology）
 
 随着TLS 1.3等加密协议及云服务技术的广泛使用，基于明文内容或密文静态特征的识别方法逐渐受限。流量行为特征仍然会体现在带宽、时延、包长、分段和突发模式等侧面，因此可以通过流量整形构造更丰富的加密通信样本，用于数据增强、检测模型测试和网络行为实验。
 
